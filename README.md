@@ -1,5 +1,4 @@
-orbital-14-bootstrap
-====================
+# orbital-14-bootstrap
 
 Files for the [NUS Orbital 2014] Mission Control #1 - Twitter Bootstrap 3.0 session
 
@@ -15,15 +14,15 @@ https://github.com/twbs/bootstrap/releases/download/v3.1.1/bootstrap-3.1.1-dist.
 ## Contents
 
 <pre>
-	1/ - raw files to be changed
-	2/ - finished files
+	1_before/ - raw files to be changed
+	2_after/ - finished files
 	
 	**Contributed by Bootstrap**
 
 	css/
 	js/
 	fonts/ 
-	
+
 	twitter-mit-license.txt - as required by licensing terms
 
 	spacelab/bootstrap.min.css - from http://bootswatch.com/spacelab/bootstrap.min.css
