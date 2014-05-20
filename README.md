@@ -9,15 +9,25 @@ Live Google Document for the session at: http://bit.ly/1jvoQ6F
 
 Google Hangouts on Air (YouTube broadcast) recording: TBA
 
+This tutorial uses the v3.1.1 of Bootstrap, although it should pretty much work with anything v3.x 
+https://github.com/twbs/bootstrap/releases/download/v3.1.1/bootstrap-3.1.1-dist.zip 
+
 ## Contents
 
 <pre>
 	1/ - raw files to be changed
 	2/ - finished files
-	lib/ - local files for use
-       /bootstrap.min.js 
-       /bootstrap.js
-</pre>
+	
+	**Contributed by Bootstrap**
+
+	css/
+	js/
+	fonts/ 
+	
+	twitter-mit-license.txt - as required by licensing terms
+
+	spacelab/bootstrap.min.css - from http://bootswatch.com/spacelab/bootstrap.min.css
+ </pre>
 
 ## Authors
 
@@ -28,3 +38,7 @@ Google Hangouts on Air (YouTube broadcast) recording: TBA
 CC By 4.0 International License
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+## Acknowledgements
+
+Uses Twitter Bootstrap 3.1.1 - used under the terms of the MIT License
