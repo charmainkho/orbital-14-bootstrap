@@ -3,16 +3,21 @@ orbital-14-bootstrap
 
 Files for the [NUS Orbital 2014] Mission Control #1 - Twitter Bootstrap 3.0 session
 
+GitHub: https://github.com/knmnyn/orbital-14-bootstrap
+
 Live Google Document for the session at: http://bit.ly/1jvoQ6F 
 
 Google Hangouts on Air (YouTube broadcast) recording: TBA
 
 ## Contents
 
-* 1/ - raw files to be changed
-* 2/ - finished files
-* lib/ - local files for use
-** s
+<pre>
+	1/ - raw files to be changed
+	2/ - finished files
+	lib/ - local files for use
+       /bootstrap.min.js 
+       /bootstrap.js
+</pre>
 
 ## Authors
 
