@@ -6,7 +6,7 @@ GitHub: https://github.com/knmnyn/orbital-14-bootstrap
 
 Live Google Document for the session at: http://bit.ly/1jvoQ6F 
 
-Google Hangouts on Air (YouTube broadcast) recording: TBA
+Google Hangouts on Air (YouTube broadcast) recording: http://youtu.be/38SHicXTZhI
 
 This tutorial uses the v3.1.1 of Bootstrap, although it should pretty much work with anything v3.x 
 https://github.com/twbs/bootstrap/releases/download/v3.1.1/bootstrap-3.1.1-dist.zip 
